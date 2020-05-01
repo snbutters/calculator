@@ -1,0 +1,13 @@
+#output {
+  padding-top: 20px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.form-group {
+  width: 400px;
+}
+
+.btn {
+  margin-top: 7px;
+}
